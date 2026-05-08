@@ -1,0 +1,104 @@
+2026-05-08 19:37:50,331 - WARNING -  * Debugger is active!
+2026-05-08 19:37:50,336 - INFO -  * Debugger PIN: 577-814-599
+2026-05-08 19:40:15,037 - INFO - 127.0.0.1 - - [08/May/2026 19:40:15] "GET / HTTP/1.1" 200 -
+2026-05-08 19:40:15,510 - INFO - 127.0.0.1 - - [08/May/2026 19:40:15] "GET /static/app.js HTTP/1.1" 200 -
+2026-05-08 19:40:15,518 - INFO - 127.0.0.1 - - [08/May/2026 19:40:15] "GET /static/style.css HTTP/1.1" 200 -
+2026-05-08 19:40:18,977 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:40:18,979 - INFO - 127.0.0.1 - - [08/May/2026 19:40:18] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:40:43,650 - INFO - 127.0.0.1 - - [08/May/2026 19:40:43] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:40:47,931 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:40:47,932 - INFO - 127.0.0.1 - - [08/May/2026 19:40:47] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:41:18,740 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:41:18,741 - INFO - 127.0.0.1 - - [08/May/2026 19:41:18] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:41:48,728 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:41:48,729 - INFO - 127.0.0.1 - - [08/May/2026 19:41:48] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:42:18,604 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:42:18,605 - INFO - 127.0.0.1 - - [08/May/2026 19:42:18] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:42:48,396 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:42:48,397 - INFO - 127.0.0.1 - - [08/May/2026 19:42:48] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:43:18,643 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:43:18,644 - INFO - 127.0.0.1 - - [08/May/2026 19:43:18] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:44:31,306 - ERROR - Error fetching account info: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-05-08 19:44:31,307 - INFO - 127.0.0.1 - - [08/May/2026 19:44:31] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:44:36,765 - INFO -  * Detected change in 'S:\\Projects\\PythonAi project\\trading_bot\\bot\\client.py', reloading
+2026-05-08 19:44:38,770 - WARNING -  * Debugger is active!
+2026-05-08 19:44:38,774 - INFO -  * Debugger PIN: 577-814-599
+2026-05-08 19:44:45,588 - INFO -  * Detected change in 'S:\\Projects\\PythonAi project\\trading_bot\\app.py', reloading
+2026-05-08 19:44:47,263 - WARNING -  * Debugger is active!
+2026-05-08 19:44:47,268 - INFO -  * Debugger PIN: 577-814-599
+2026-05-08 19:45:34,347 - INFO - 127.0.0.1 - - [08/May/2026 19:45:34] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:46:33,124 - INFO - 127.0.0.1 - - [08/May/2026 19:46:33] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:47:33,806 - INFO - 127.0.0.1 - - [08/May/2026 19:47:33] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:48:08,438 - INFO - 127.0.0.1 - - [08/May/2026 19:48:08] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:48:21,079 - INFO - 127.0.0.1 - - [08/May/2026 19:48:21] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:48:50,220 - INFO - 127.0.0.1 - - [08/May/2026 19:48:50] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:49:32,864 - INFO - 127.0.0.1 - - [08/May/2026 19:49:32] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:50:06,979 - INFO - 127.0.0.1 - - [08/May/2026 19:50:06] "GET / HTTP/1.1" 200 -
+2026-05-08 19:50:07,271 - INFO - 127.0.0.1 - - [08/May/2026 19:50:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2026-05-08 19:50:07,273 - INFO - 127.0.0.1 - - [08/May/2026 19:50:07] "GET /static/app.js HTTP/1.1" 200 -
+2026-05-08 19:50:09,719 - INFO - 127.0.0.1 - - [08/May/2026 19:50:09] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:50:32,728 - INFO - 127.0.0.1 - - [08/May/2026 19:50:32] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:50:37,076 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=9000000.0
+2026-05-08 19:50:38,828 - ERROR - Binance API Error: APIError(code=-4002): Price greater than max price.
+2026-05-08 19:50:38,836 - INFO - 127.0.0.1 - - [08/May/2026 19:50:38] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:50:40,315 - INFO - 127.0.0.1 - - [08/May/2026 19:50:40] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:50:48,009 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=9000.0
+2026-05-08 19:50:49,071 - ERROR - Binance API Error: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-05-08 19:50:49,076 - INFO - 127.0.0.1 - - [08/May/2026 19:50:49] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:51:03,926 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=9.0
+2026-05-08 19:51:05,029 - ERROR - Binance API Error: APIError(code=-4013): Price less than min price.
+2026-05-08 19:51:05,037 - INFO - 127.0.0.1 - - [08/May/2026 19:51:05] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:51:09,735 - INFO - 127.0.0.1 - - [08/May/2026 19:51:09] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:51:11,841 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=50.0
+2026-05-08 19:51:13,103 - ERROR - Binance API Error: APIError(code=-4013): Price less than min price.
+2026-05-08 19:51:13,109 - INFO - 127.0.0.1 - - [08/May/2026 19:51:13] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:51:18,567 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=500.0
+2026-05-08 19:51:20,153 - ERROR - Binance API Error: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-05-08 19:51:20,160 - INFO - 127.0.0.1 - - [08/May/2026 19:51:20] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:51:30,370 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001 Price=51.0
+2026-05-08 19:51:31,680 - ERROR - Binance API Error: APIError(code=-4013): Price less than min price.
+2026-05-08 19:51:31,686 - INFO - 127.0.0.1 - - [08/May/2026 19:51:31] "POST /place-order HTTP/1.1" 200 -
+2026-05-08 19:51:33,155 - INFO - 127.0.0.1 - - [08/May/2026 19:51:33] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 19:51:39,717 - INFO - 127.0.0.1 - - [08/May/2026 19:51:39] "GET /account-info HTTP/1.1" 200 -
+2026-05-08 21:23:19,881 - INFO - MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-08 21:23:21,070 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 21:23:37,457 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=95000.0
+2026-05-08 21:23:37,999 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 21:24:47,708 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=96000.0
+2026-05-08 21:24:48,522 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 22:08:33,601 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=94500.0
+2026-05-08 22:08:34,817 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 22:15:57,145 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=94500.0
+2026-05-08 22:15:57,783 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 22:16:09,617 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=95000.0
+2026-05-08 22:16:10,143 - ERROR - Binance API Error: APIError(code=-2019): Margin is insufficient.
+2026-05-08 22:24:02,802 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=95000.0
+2026-05-08 22:24:03,696 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121207156, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3033a7b11906c4f5ca6cbd', 'price': '95000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778259243832}
+2026-05-08 22:24:18,600 - INFO - MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-08 22:24:19,336 - INFO - MARKET ORDER RESPONSE | {'orderId': 13121207644, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJff25ffc45dac282e8f5017', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778259259486}
+2026-05-08 22:24:48,144 - INFO - MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.01
+2026-05-08 22:24:48,880 - INFO - MARKET ORDER RESPONSE | {'orderId': 13121208541, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ823d8c166aba2bd00f4350', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778259288932}
+2026-05-08 22:25:21,120 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=94500.0
+2026-05-08 22:25:23,374 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121209859, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ80156acb109779f0cfda29', 'price': '94500.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778259322999}
+2026-05-08 23:28:26,868 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-08 23:28:26,869 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-08 23:28:26,870 - INFO -  * Restarting with stat
+2026-05-08 23:28:27,639 - WARNING -  * Debugger is active!
+2026-05-08 23:28:27,648 - INFO -  * Debugger PIN: 577-814-599
+2026-05-08 23:36:56,085 - INFO - MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-08 23:36:57,913 - INFO - MARKET ORDER RESPONSE | {'orderId': 13121366277, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe8734e9227ec55cdb7a438', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778263618047}
+2026-05-08 23:37:19,010 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.0001 Price=94500.0
+2026-05-08 23:37:20,473 - ERROR - Binance API Error: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-05-08 23:37:30,164 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=94500.0
+2026-05-08 23:37:30,912 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121367657, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ22fc6ca9c851a7e6c6b2b', 'price': '94500.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778263651083}
+2026-05-09 00:24:58,445 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=94500.0
+2026-05-09 00:24:59,255 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121477983, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJb7bdbd86a448f1d72fb35a', 'price': '94500.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778266499400}
+2026-05-09 00:25:10,784 - INFO - MARKET ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.002
+2026-05-09 00:25:11,484 - INFO - MARKET ORDER RESPONSE | {'orderId': 13121478767, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ16f437139436f60464ec4f', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0020', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778266511634}
+2026-05-09 01:08:01,647 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.01 Price=60000.0
+2026-05-09 01:08:02,760 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121572398, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf23e231224eb24e286b745', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778269082917}
+2026-05-09 01:36:00,702 - INFO - LIMIT ORDER REQUEST | Symbol=BTCUSDT Side=BUY Quantity=0.01 Price=60000.0
+2026-05-09 01:36:01,573 - INFO - LIMIT ORDER RESPONSE | {'orderId': 13121634635, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJca5edfce33eb69173062d2', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.0100', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778270761726}
+2026-05-09 03:27:18,665 - INFO - MARKET ORDER REQUEST | Symbol=ETHUSDT Side=SELL Quantity=0.5
+2026-05-09 03:27:19,012 - INFO - MARKET ORDER RESPONSE | {'orderId': 8692535657, 'symbol': 'ETHUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ6969f41f75fb40efa5ecbd', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.500', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1778277439644}
